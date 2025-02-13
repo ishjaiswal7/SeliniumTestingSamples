@@ -8,7 +8,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 //sendKeys example
 public class Example1_1 {
 	public static void main(String[] args) {
-		
 		WebDriver driver = new ChromeDriver();
 		
 		//Go to google home page
