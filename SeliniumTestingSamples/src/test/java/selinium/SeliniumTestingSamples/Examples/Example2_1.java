@@ -5,7 +5,7 @@ import java.time.Duration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-//Firefox Browser
+// Firefox Browser
 public class Example2_1 {
 	public static void main(String[] args) {
 		
