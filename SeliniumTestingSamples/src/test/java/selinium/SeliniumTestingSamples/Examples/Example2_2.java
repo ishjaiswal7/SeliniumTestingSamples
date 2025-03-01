@@ -3,7 +3,7 @@ package selinium.SeliniumTestingSamples.Examples;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-//Facebook on Firefox
+// Facebook on Firefox
 public class Example2_2 {
 	public static void main(String[] args) {
 		
